@@ -1,0 +1,3 @@
+test_ttt.py
+.pytest_cache/
+__pycache__/
